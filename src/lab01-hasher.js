@@ -42,9 +42,9 @@ console.log(newHash);
 
 // مقایسه هش‌ها
 console.log(" مقایسه:");
-console.log(`هش اصلی:     ${originalHash}`);
-console.log(`هش جدید:     ${newHash}`);
-console.log(`یکسان هستند؟ ${originalHash === newHash ? ' بله' : ' نه - اثر بهمنی!'}`);
+console.log(`main hash:     ${originalHash}`);
+console.log(`new hash:     ${newHash}`);
+console.log(`same ? ${originalHash === newHash ? ' بله' : ' نه - اثر بهمنی!'}`);
 
 // بررسی اثر بهمنی (Avalanche Effect)
 console.log(" اثر بهمنی:");
