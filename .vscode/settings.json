@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "Vazirmatn, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "[markdown]": {
+        "editor.wordWrap": "on"
+    },
+    "markdown.styles": [
+        ".vscode/markdown-rtl.css"
+    ]
+}
